@@ -1,6 +1,6 @@
 # Note App
 It is a note application that I made to reinforce what I learned.
-[Youtube](https://www.youtube.com/watch?v=8YPXv7xKh2w&t=8439s&ab_channel=PhilippLackner)
+[Youtube](https://www.youtube.com/watch?v=8YPXv7xKh2w&ab_channel=PhilippLackner)
 
 ## Screenshots 📷
 <img src="https://github.com/velialan/MyNoteAppKotlin/blob/main/screenshots/home-1.png?raw=true" width="280"> <img src="https://github.com/velialan/MyNoteAppKotlin/blob/main/screenshots/home-2.png?raw=true" width="280">
