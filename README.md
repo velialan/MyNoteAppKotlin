@@ -1,7 +1,7 @@
 # Note App
 Note Application
 
-## Screenshots 📷
+## Screenshot 📷
 <img src="https://github.com/velialan/MyNoteAppKotlin/blob/main/screenshots/home-1.png?raw=true" width="280"> <img src="https://github.com/velialan/MyNoteAppKotlin/blob/main/screenshots/home-2.png?raw=true" width="280">
 <img src="https://github.com/velialan/MyNoteAppKotlin/blob/main/screenshots/add-note.png?raw=true" width="280"> 
 
